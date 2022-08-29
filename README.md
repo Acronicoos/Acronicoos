@@ -32,7 +32,7 @@
  <br><br>
  ## 📲 Social Links   
    <div> 
-<a href="https://instagram.com/acronicos.ftc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp" height="30" width="40" /></a>
+<a href="https://instagram.com/acronicos.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp" height="30" width="40" /></a>
  
     
 <div>
