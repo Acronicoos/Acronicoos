@@ -24,8 +24,7 @@
   <div align="left">
   <a href="https://github.com/Acronicoos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Acronicoos&show_icons=true&theme=vision-friendly-dark" alt="Acronicos' stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acronicoos&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Acronicos' stats"/>
-    <p><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Acronicoos&&theme=vision-friendly-dark" alt="Acronicos´ stats" /></p>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Acronicoos&&theme=vision-friendly-dark" alt="Acronicos´ stats" />
     
     
  <br><br>
