@@ -6,7 +6,7 @@
 </h1>
 <br>
 
-- 🔥 Robotics OBR/FLL/FTC Team 
+- 🔥 Robotics OBR | FLL | FTC Team 
 
 - 🔭 Champions in many competions!
 
